@@ -62,6 +62,7 @@ for testing can use postman, curl or any other tool
 added bat files, run curl commands
 
 any click on shortlink amout of clicks increase(not 1 click for 1 user, user can access link many times and the counter will increase)
+i not sure if I should to handle 1 click per user in this assigment, for doing it i probably added track in db on users clicked it
 
 Inside TESTS folder can find bat files, run curl commands in different situations
 ### End
