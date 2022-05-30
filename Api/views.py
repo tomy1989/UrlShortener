@@ -31,8 +31,6 @@ def create_short(request):
         requests (_type_): _description_
     """
     try:
-        print('a')
-        print(request.body)
         serializer = PostLinkSerizalizer(data=request.data)
         #checking dat we got valid format
         if serializer.is_valid():
