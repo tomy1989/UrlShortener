@@ -35,7 +35,7 @@ turn on enviroment when in folder API (not must)
 ```
 venv\Scripts\activate
 ```
-In API/api can find file req.txt
+can find file requirements.txt
 
 Make sure you have pip installed
 can use this command to install all needed packages:
